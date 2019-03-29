@@ -9,7 +9,7 @@ Descriptions:
 
 2. Managing Data: these are hands-on activities that are interactive. This has four parts:
   a. Exploring: reading data in, looking at variables, etc
-  b. Filtering/Subsetting: filtering datasets, subsetting, arranging, etc.
+  b. Data Manipulation: filtering datasets, subsetting, arranging, etc.
   c. Variables: cleaning variables, making new variables, etc. 
   d. Summarizing: condensing data, getting summary statistics, etc. 
 
